@@ -17,13 +17,13 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'ab');
-
+//define('DB_NAME', 'usr_web238_5');
 /** MySQL database username */
 define('DB_USER', 'root');
-
+//define('DB_USER', 'web238');
 /** MySQL database password */
 define('DB_PASSWORD', '');
-
+//define('DB_PASSWORD', 'sh1tTim32k!');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
@@ -32,6 +32,9 @@ define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
+
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
