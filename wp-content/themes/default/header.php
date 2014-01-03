@@ -29,6 +29,9 @@
         <link rel="icon" type="image/png" href="<?php echo bi_get_data('custom_favicon'); ?>" />
     <?php endif; ?>
 
+    <link rel="icon" href="/wp-content/uploads/2013/12/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="/wp-content/uploads/2013/12/favicon.png" type="image/x-icon" />
+
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 

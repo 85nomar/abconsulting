@@ -1900,6 +1900,13 @@ Default rechanges
     font-weight:bold;
 }
 
+#hp_content h1{
+    font-size:45px;
+}
+#hp_content {
+    text-align:left;
+}
+
 @media (max-width: 480px) {
 
     #headerwrap h1 {
